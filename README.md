@@ -1,7 +1,7 @@
 # Project 5: Deep Learning Capstone Project. Decoding a Sequence of Digits in Real World Photos.
 
 This project is a [TensorFlow](https://www.tensorflow.org/) implementation of a 
-[Convolution Nueral Network](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+[Convolution Neural Network](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 to decode a sequence of digits in the realworld using trained on 
 the [SVHN dataset](http://ufldl.stanford.edu/housenumbers/). This project is partial 
 fulfillment of the Udacity Machine Learning nanodegree program. 
